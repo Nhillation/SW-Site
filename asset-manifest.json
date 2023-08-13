@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.87a345a5.css",
-    "main.js": "./static/js/main.c28c7665.js",
+    "main.css": "./static/css/main.7feb4935.css",
+    "main.js": "./static/js/main.61914ec3.js",
     "static/js/787.037d72d9.chunk.js": "./static/js/787.037d72d9.chunk.js",
-    "static/media/Montserrat-BlackItalic.ttf": "./static/media/Montserrat-BlackItalic.4404f7c61ef37bcfd52a.ttf",
-    "static/media/Montserrat-Black.ttf": "./static/media/Montserrat-Black.46e8b3d6aad654578958.ttf",
-    "static/media/Montserrat-BoldItalic.ttf": "./static/media/Montserrat-BoldItalic.a32ae5d9b605d950167e.ttf",
-    "static/media/Montserrat-Italic.ttf": "./static/media/Montserrat-Italic.e7728c27ba36b97eb82f.ttf",
-    "static/media/Montserrat-Regular.ttf": "./static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
-    "static/media/Montserrat-Bold.ttf": "./static/media/Montserrat-Bold.079ca05d3ded9bc107ab.ttf",
+    "static/media/Montserrat-BoldItalic.ttf": "./static/media/Montserrat-BoldItalic.360c8432a3f6bb697796.ttf",
+    "static/media/Montserrat-Italic.ttf": "./static/media/Montserrat-Italic.58b98b5c47cf787cd97a.ttf",
+    "static/media/Montserrat-BlackItalic.ttf": "./static/media/Montserrat-BlackItalic.bb62ac42009388d14584.ttf",
+    "static/media/Montserrat-Bold.ttf": "./static/media/Montserrat-Bold.2c155811b35513d5beaa.ttf",
+    "static/media/Montserrat-Regular.ttf": "./static/media/Montserrat-Regular.ceb11275ab638627a643.ttf",
+    "static/media/Montserrat-Black.ttf": "./static/media/Montserrat-Black.08437fd0aa82576d3678.ttf",
     "static/media/TransformedSplash.png": "./static/media/TransformedSplash.96df5f9e1d97ed53dec8.png",
     "static/media/layoutManager.png": "./static/media/layoutManager.5cf3a0e0258813d8f4e2.png",
     "static/media/hotkeys.png": "./static/media/hotkeys.487a8a5a0fc6cba4a79d.png",
@@ -20,12 +20,12 @@
     "static/media/managerPanel.png": "./static/media/managerPanel.093f621f2881ef19e4f9.png",
     "static/media/createBrowserSource.png": "./static/media/createBrowserSource.cacfe904462649796722.png",
     "index.html": "./index.html",
-    "main.87a345a5.css.map": "./static/css/main.87a345a5.css.map",
-    "main.c28c7665.js.map": "./static/js/main.c28c7665.js.map",
+    "main.7feb4935.css.map": "./static/css/main.7feb4935.css.map",
+    "main.61914ec3.js.map": "./static/js/main.61914ec3.js.map",
     "787.037d72d9.chunk.js.map": "./static/js/787.037d72d9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.87a345a5.css",
-    "static/js/main.c28c7665.js"
+    "static/css/main.7feb4935.css",
+    "static/js/main.61914ec3.js"
   ]
 }
